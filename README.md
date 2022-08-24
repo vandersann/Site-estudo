@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 * Toda aplicação foi criada no sitema operacional `Windows 11`
-* Conhecimento adquirido no <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank"><kbd>Curso em Video</kbd></a> com o grandde <a href="https://github.com/gustavoguanabara" target="_blank"><kbd>Prof. Gustavo Guanabara</kbd></a>.
+* Conhecimento adquirido no <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank"><kbd>Curso em Video</kbd></a> com o grande <a href="https://github.com/gustavoguanabara" target="_blank"><kbd>Prof. Gustavo Guanabara</kbd></a>.
 
 ## :brain: Acessando a BrainStorm
 
