@@ -1,6 +1,6 @@
 # BrainStorm 
 
-![GitHub repo size]([https://img.shields.io/github/repo-size/vandersann/Site-estudo?style=for-the-badge])
+![GitHub repo size](https://img.shields.io/github/repo-size/vandersann/Site-estudo?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/vandersann/Site-estudo?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/Site-estudo?style=for-the-badge)
 
